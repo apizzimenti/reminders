@@ -1,0 +1,7 @@
+Hey Steve! It's that time to sign off on my timesheets again. Hope you have a great rest of your day!
+
+Anthony
+
+PS this email was sent automagically - I didn't have to lift a finger (aside from writing the code, I guess)
+
+sent on {0}-{1}-{2}
